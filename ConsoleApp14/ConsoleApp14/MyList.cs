@@ -55,6 +55,9 @@ class MyList<T>
                 newArr[i] = values[i];
             }
         }
+
+
+
         return newArr;
     }
 
